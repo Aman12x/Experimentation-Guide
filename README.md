@@ -205,11 +205,6 @@ Relative lift = (11 − 9) / 9 = 22.2%
 
 ---
 
-## License
-
-MIT (or your preferred license).
-
----
 
 ## Contributing
 
